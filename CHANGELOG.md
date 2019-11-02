@@ -1,3 +1,7 @@
+### 1.1.4 [2019-11-X]
+
+* Pin `Django<2`
+
 ### 1.1.3 [2018-10-12]
 
 * Fix a concurrency issue with Refresh Tokens (#638)
